@@ -1,0 +1,6 @@
+{
+  "name": "HawkerHunt",
+  "description": "Live hawker stall discovery and order assistant for Sunrise Lane Food Centre, featuring real-time filter matching, stall menus, wait times, and instant ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
